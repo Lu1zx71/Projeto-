@@ -1,0 +1,10 @@
+C:\Users\cliente\OneDrive\Área de Trabalho\C SHARP\tela CADASTRAL\tela CADASTRAL\bin\Debug\tela CADASTRAL.exe.config
+C:\Users\cliente\OneDrive\Área de Trabalho\C SHARP\tela CADASTRAL\tela CADASTRAL\bin\Debug\tela CADASTRAL.exe
+C:\Users\cliente\OneDrive\Área de Trabalho\C SHARP\tela CADASTRAL\tela CADASTRAL\bin\Debug\tela CADASTRAL.pdb
+C:\Users\cliente\OneDrive\Área de Trabalho\C SHARP\tela CADASTRAL\tela CADASTRAL\obj\Debug\tela CADASTRAL.csproj.AssemblyReference.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\C SHARP\tela CADASTRAL\tela CADASTRAL\obj\Debug\tela_CADASTRAL.Form1.resources
+C:\Users\cliente\OneDrive\Área de Trabalho\C SHARP\tela CADASTRAL\tela CADASTRAL\obj\Debug\tela_CADASTRAL.Properties.Resources.resources
+C:\Users\cliente\OneDrive\Área de Trabalho\C SHARP\tela CADASTRAL\tela CADASTRAL\obj\Debug\tela CADASTRAL.csproj.GenerateResource.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\C SHARP\tela CADASTRAL\tela CADASTRAL\obj\Debug\tela CADASTRAL.csproj.CoreCompileInputs.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\C SHARP\tela CADASTRAL\tela CADASTRAL\obj\Debug\tela CADASTRAL.exe
+C:\Users\cliente\OneDrive\Área de Trabalho\C SHARP\tela CADASTRAL\tela CADASTRAL\obj\Debug\tela CADASTRAL.pdb
